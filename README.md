@@ -6,4 +6,4 @@ Recuersion:
 
 En termonos de organozación, una función recursiva se puede definir como una rutina que se llama a si misma directa o indirectamente.
 
-Siempre realicemos comentarios en nuestros proyectos, cuando sean necesarios
+Siempre realicemos comentarios en nuestros proyectos, cuando sean necesarios, con mas revert
